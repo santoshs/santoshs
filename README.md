@@ -3,6 +3,7 @@
 I work mostly in the Linux kernel (See patches for Linux on Power
 [here](https://patchwork.ozlabs.org/project/linuxppc-dev/list/?series=&submitter=71831&state=3&q=&archive=both))
 
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Haskell functions](http://fossix.org/blog/haskool/)
 - [Concurrency notes](http://fossix.org/blogs/golang-concurrency/)
