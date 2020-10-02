@@ -5,7 +5,7 @@ I work mostly in the Linux kernel (See patches for Linux on Power
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing containers in Linux](http://fossix.org/articles/Cointainers/)
+- [Writing containers in Linux](http://fossix.org/snippets/Cointainers/)
 - [Haskell functions](http://fossix.org/blogs/haskool/)
 - [Concurrency notes](http://fossix.org/blogs/golang-concurrency/)
 - [Go’s json marshal](http://fossix.org/snippets/go-json-marhsal-empty-slice/)
