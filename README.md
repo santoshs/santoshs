@@ -5,11 +5,11 @@ I work mostly in the Linux kernel (See patches for Linux on Power
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding big numbers](http://fossix.org/articles/big-number-addition/)
 - [Writing containers in Linux](http://fossix.org/snippets/Cointainers/)
 - [Haskell functions](http://fossix.org/blogs/haskool/)
 - [Concurrency notes](http://fossix.org/blogs/golang-concurrency/)
 - [Go’s json marshal](http://fossix.org/snippets/go-json-marhsal-empty-slice/)
-- [Dockerize go programs](http://fossix.org/snippets/golang-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
